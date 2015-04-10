@@ -1,1 +1,0 @@
-A .NET wrapper of the Logitech-G15-SDK
